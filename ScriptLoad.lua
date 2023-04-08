@@ -211,7 +211,7 @@ function ttytPr()
 	TextLabel_4.Size = UDim2.new(1, 0, 0.184999987, 0)
 	TextLabel_4.ZIndex = 2
 	TextLabel_4.Font = Enum.Font.Highway
-	TextLabel_4.Text = "Dont forget to subcribe my youtube channel & follow my tiktok! Perm key giveaway soon!!!"
+	TextLabel_4.Text = "Dont forget to follow ashkahar on faceboook and follow sussy_carot,Ghostogre2003 on roblox"
 	TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
 	TextLabel_4.TextScaled = true
 	TextLabel_4.TextSize = 14.000
