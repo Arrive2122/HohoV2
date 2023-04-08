@@ -114,7 +114,7 @@ function ttytPr()
 	TextButton.Position = UDim2.new(0.401250005, 0, 0.479999989, 0)
 	TextButton.Size = UDim2.new(0.534722269, 0, 0.349999994, 0)
 	TextButton.Font = Enum.Font.SourceSans
-	TextButton.Text = "(Wildstar)"
+	TextButton.Text = "RocketPanda"
 	TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 	TextButton.TextScaled = true
 	TextButton.TextSize = 14.000
@@ -155,7 +155,7 @@ function ttytPr()
 	TextLabel_2.Position = UDim2.new(0.401250005, 0, 0.169999987, 0)
 	TextLabel_2.Size = UDim2.new(0.534722269, 0, 0.310000002, 0)
 	TextLabel_2.Font = Enum.Font.Highway
-	TextLabel_2.Text = "@Wildstar"
+	TextLabel_2.Text = "@RADHAKRISHNA2738"
 	TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 	TextLabel_2.TextScaled = true
 	TextLabel_2.TextSize = 14.000
@@ -193,7 +193,7 @@ function ttytPr()
 	TextLabel_3.Position = UDim2.new(0.401250005, 0, 0.473030418, 0)
 	TextLabel_3.Size = UDim2.new(0.534722269, 0, 0.310000002, 0)
 	TextLabel_3.Font = Enum.Font.Highway
-	TextLabel_3.Text = "(Quang Wuang)"
+	TextLabel_3.Text = "(sussy_carot)"
 	TextLabel_3.TextColor3 = Color3.fromRGB(0, 0, 0)
 	TextLabel_3.TextScaled = true
 	TextLabel_3.TextSize = 14.000
