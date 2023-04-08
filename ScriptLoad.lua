@@ -114,7 +114,7 @@ function ttytPr()
 	TextButton.Position = UDim2.new(0.401250005, 0, 0.479999989, 0)
 	TextButton.Size = UDim2.new(0.534722269, 0, 0.349999994, 0)
 	TextButton.Font = Enum.Font.SourceSans
-	TextButton.Text = "Subcribe"
+	TextButton.Text = "(Wildstar)"
 	TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 	TextButton.TextScaled = true
 	TextButton.TextSize = 14.000
