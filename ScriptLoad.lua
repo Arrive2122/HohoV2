@@ -101,7 +101,7 @@ function ttytPr()
 	TextLabel.Position = UDim2.new(0.401250005, 0, 0.169999987, 0)
 	TextLabel.Size = UDim2.new(0.534722269, 0, 0.310000002, 0)
 	TextLabel.Font = Enum.Font.Highway
-	TextLabel.Text = "@acsu123"
+	TextLabel.Text = "@Ghostogre2003"
 	TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 	TextLabel.TextScaled = true
 	TextLabel.TextSize = 14.000
@@ -155,7 +155,7 @@ function ttytPr()
 	TextLabel_2.Position = UDim2.new(0.401250005, 0, 0.169999987, 0)
 	TextLabel_2.Size = UDim2.new(0.534722269, 0, 0.310000002, 0)
 	TextLabel_2.Font = Enum.Font.Highway
-	TextLabel_2.Text = "@imwuangnek"
+	TextLabel_2.Text = "@Wildstar"
 	TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 	TextLabel_2.TextScaled = true
 	TextLabel_2.TextSize = 14.000
@@ -278,7 +278,7 @@ function YtPr()
 	TextLabel.Position = UDim2.new(0.401250005, 0, 0.169999987, 0)
 	TextLabel.Size = UDim2.new(0.534722269, 0, 0.310000002, 0)
 	TextLabel.Font = Enum.Font.Highway
-	TextLabel.Text = " acsu123"
+	TextLabel.Text = " RADHAKRISHNA2738"
 	TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 	TextLabel.TextScaled = true
 	TextLabel.TextSize = 14.000
