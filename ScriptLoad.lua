@@ -89,7 +89,7 @@ function ttytPr()
 	ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	ImageLabel.Position = UDim2.new(0.057500001, 0, 0.0700000003, 0)
 	ImageLabel.Size = UDim2.new(0.295138925, 0, 0.850000024, 0)
-	ImageLabel.Image = "http://www.roblox.com/asset/?id=12130059538"
+	ImageLabel.Image = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0skaOS816-JRSJaR-PhuHVDcK8tMKnwRNg&usqp=CAU"
 
 	UICorner_2.CornerRadius = UDim.new(0, 60)
 	UICorner_2.Parent = ImageLabel
